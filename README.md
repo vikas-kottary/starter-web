@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 
 ##Deployment
 ready to deploy
+
+##Copyerite
